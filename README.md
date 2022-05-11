@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabriel Cuello. I'm a software developer from Argentina.
+- 👋 Hi, I’m @Gabriel Cuello. I'm a front-End Developer from Mendoza, Argentina.
 - 👀 I’m interested in learning new technologies and features of the software development area.
 - 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on any proyect.
