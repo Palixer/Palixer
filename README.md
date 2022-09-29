@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Gabriel Cuello. I'm a Front-End Developer from Mendoza, Argentina.
+- 👋 Hi, I’m @Gabriel Cuello. I'm a Full-Stack Developer from Mendoza, Argentina.
 - 👀 I’m interested in learning new technologies and features of the software development area.
-- 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on any proyect.
 - 📫 You can reach me at cgabrielcuello@gmail.com
 
 <!---
